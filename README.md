@@ -1,4 +1,4 @@
-# Resumo
+# Resumo (Trabalho feito em C)
  O Projeto Integrado Multidisciplinar II do curso de Análise e Desenvolvimento de Sistemas aborda o levantamento de requisitos e a criação de um código-fonte para o gerenciamento de um hortifrúti, além de demonstrar o funcionamento do código de conduta da empresa e apresentando as principais exigências para criação de um sistema composto para otimizar as operações de um hortifrúti.
 ## Tema
  Desenvolvimento de um sistema composto por múltiplos programas em modo console para otimizar as operações de um hortifruti. 
